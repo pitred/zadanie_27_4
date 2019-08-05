@@ -1,0 +1,14 @@
+{
+   "name": "zadanie_27_3",
+   "version": "1.0.0",
+   "description": "",
+   "main": "index.js",
+   "scripts": {
+      "gitignore": "curl https://raw.githubusercontent.com/github/gitignore/master/Node.gitignore -o .gitignore"
+   },
+   "author": "RED",
+   "license": "ISC",
+   "dependencies": {
+      "uuid": "^3.3.2"
+   }
+}
